@@ -4,7 +4,7 @@
 
 # no 4 = @immutable (memberi tahu bahwa nilai properti dari objek yang dianotasikan tidak akan pernah berubah setelah objek dibuat). @override (digunakan untuk menimpa fungsi yang didefinisikan dalam kelas induk).
 
-## dokumentasi <video src="20241104-0409-30.0679432.mp4" controls title="Title"></video>
+## dokumentasi <video src="20241104-0409-30.0679432.mp4" controls title="Title"></video>, foto = ![Alt text](image.png)
 
 ## Getting Started
 
